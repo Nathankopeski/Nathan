@@ -6,5 +6,7 @@ body {
         background-color: cadetblue;
          color: rgb(0, 0, 0);
         text-align: center;
+        border: 5px solid black;
+        padding: 11px;
     }
     
